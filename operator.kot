@@ -1,0 +1,13 @@
+fun main() {
+   var x = true
+   var y = false
+    println(x&&y)
+    println(x.and(y))
+    var a = 2
+    var b = 2
+    println(++a)
+    println(--a)
+    println(b++)
+    println(b--)
+    
+}
